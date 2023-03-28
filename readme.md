@@ -54,7 +54,7 @@ server/ 📁
 
 `utils` - stands for utilities, it contains function definitions that is used on an API
 
-`middlewares` - manages the tools, access, and exposure of an API (examples: isAdmin, isAuthorized)   
+`middlewares` - manages the tools, access, and exposure of an API (examples: isAdmin, isAuthorized), middleware is a function in the middle of two processes.
 
 
 ## Excerpt
